@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/AirPlane/[Ll]ibrary/
-/AirPlane/[Tt]emp/
-/AirPlane/[Oo]bj/
-/AirPlane/[Bb]uild/
-/AirPlane/[Bb]uilds/
-/AirPlane/[Ll]ogs/
-/AirPlane/[Uu]ser[Ss]ettings/
+AirPlane/[Ll]ibrary/
+AirPlane/[Tt]emp/
+AirPlane/[Oo]bj/
+AirPlane/[Bb]uild/
+AirPlane/[Bb]uilds/
+AirPlane/[Ll]ogs/
+AirPlane/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
